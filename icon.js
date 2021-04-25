@@ -27,7 +27,7 @@ twit.onclick = function(){
     window.location.href= "https://twitter.com/SwedHamza"
 }
 whats.onclick = function(){
-    window.location.href= "https://api.whatsapp.com/send?phone=05376177791"
+    window.location.href= "https://api.whatsapp.com/send?phone=+905376177791"
 }
 face.onclick = function(){
     window.location.href= "https://www.facebook.com/profile.php?id=100006249256945"
